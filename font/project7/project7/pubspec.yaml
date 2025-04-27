@@ -1,0 +1,129 @@
+name: project
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.5.3
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^5.2.6
+  http: 1.2.2
+  shared_preferences: ^2.0.15
+  intl: ^0.17.0
+  provider: ^6.0.0
+  cupertino_icons: ^1.0.8
+  carousel_slider: ^5.0.0
+  dart_jsonwebtoken: ^2.0.0
+  http_parser: ^4.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  fonts:
+    - family: PlayfairDisplay
+      fonts:
+        - asset: fonts/PlayfairDisplay-ExtraBold.ttf
+    - family: PTSerif-Regular
+      fonts:
+        - asset: fonts/PTSerif-Regular.ttf
+  assets:
+    - Assets/image/Recommend_2.jpg
+    - Assets/image/Recommend_3.jpg
+    - Assets/image/Recommend_4.jpg
+    - Assets/image/Recommend_5.jpg
+    - Assets/image/Pic1.jpg
+    - Assets/image/all.png
+    - Assets/image/science.png
+    - Assets/image/comic.png
+    - Assets/image/biography.png
+    - Assets/image/horror.png
+    - Assets/image/fantasy.png
+    - Assets/image/history.png
+    - Assets/image/romance.png
+    - Assets/image/knowledge.png
+    - Assets/image/video-player.png
+    - Assets/image/asset.png
+    - Assets/image/history (1).png
+    - Assets/image/home.png
+    - Assets/image/logout.png
+    - Assets/image/status.png
+    - Assets/image/Dashboard.png
+    - Assets/image/Request.png
+    - Assets/image/comedy.png
+    - Assets/image/thriller.png
+    - Assets/image/drama.png
+    - Assets/image/action.png
+    - Assets/image/crime.png
+    - Assets/image/return.png
+    - Assets/image/deadpool1.jpg
+    - Assets/image/H0007.jpg
+    - Assets/image/M0001.jpg
+    - Assets/image/M0002.jpg
+    - Assets/image/T0001.jpg
+    - Assets/image/T0002.jpg
+    - Assets/image/T0003.jpg
+    - Assets/image/T0004.jpg
+    - Assets/image/H0004.jpg
+    - Assets/image/A0001.jpg
+    - Assets/image/A0002.jpg
+    - Assets/image/A0007.jpg
+    - Assets/image/A0004.jpg
+    - Assets/image/A0005.jpg
+    - Assets/image/A0006.jpg
+    - Assets/image/R0001.jpg
+    - Assets/image/R0002.jpg
+    - Assets/image/R0003.jpg
+    - Assets/image/R0004.jpg
+    - Assets/image/D0001.jpg
+    - Assets/image/D0002.jpg
+    - Assets/image/D0003.jpg
+    - Assets/image/C0001.jpg
+    - Assets/image/C00002.jpg
+    - Assets/image/C00003.jpg
+    - Assets/image/H0004.jpg
+    - Assets/image/H0003.jpg
+    - Assets/image/H0002.jpg
+    - Assets/image/A0001.jpg
+    - Assets/image/Recommend_2.jpg
+    - Assets/image/F0009.jpg
+    - Assets/image/A0009.jpg
+    - Assets/image/H0001.jpg
+    - Assets/image/Deadpool1.jpg
+    - Assets/image/T0005.jpg
+    - Assets/image/R0005.jpg
+    - Assets/image/R0006.jpg
+    - Assets/image/D0004.jpg
+    - Assets/image/T0004.jpg
+    - Assets/image/A0001.jpg
+    - Assets/image/A0002.jpg
+    - Assets/image/A0004.jpg
+    - Assets/image/A0005.jpg
+    - Assets/image/A0007.jpg
+    - Assets/image/C0005.jpg
+    - Assets/image/C0004.jpg
+    - Assets/image/H0005.jpg
+    - Assets/image/H0006.jpg
+    - Assets/image/logo.png
+    - Assets/image/H0004.jpg
+    - Assets/image/Co0001.jpg
+    - Assets/image/image2.jpg
+    - Assets/image/image3.jpg
+    - Assets/image/image4.jpg
+    - Assets/image/image5.jpg
+    - Assets/image/image6.jpg
+    - Assets/image/image7.jpg
+    - Assets/imageedit/image.jpg
+    - Assets/imageedit/image1.jpg
+    - Assets/imageedit/image2.jpg
+    - Assets/imageedit/image3.jpg
+    - Assets/image/image8.jpg
+    - Assets/imageedit/image4.jpg
+    - Assets/image/image9.jpg
+    - Assets/image/image10.jpg
+    - Assets/image/image11.jpg
+    - Assets/image/image12.jpg
+    - Assets/image/image13.jpg
+    - Assets/imageedit/image5.jpg
+  uses-material-design: true
